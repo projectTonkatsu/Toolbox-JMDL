@@ -1,0 +1,5 @@
+This is a modified version of Toolbox that supports .jarc, .jmdl, and .jtex files. These filetypes mostly appear in games developed by Ganbarion. (Several One Piece games, Wii Fit U, etc.)
+You will need to use the .jarc quickBMS script to extract assets from a .jarc file. In the case of Wii Fit U, they've been renamed to .carc, for whatever reason.
+
+
+This fork was originally created by a user who has since taken their accounts offline, with additional updates by showstopper3934.
