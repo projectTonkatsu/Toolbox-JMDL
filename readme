@@ -1,6 +1,7 @@
 This is a modified version of Toolbox that supports .jarc, .jmdl, and .jtex files. These filetypes mostly appear in games developed by Ganbarion. (Several One Piece games, Wii Fit U, etc.)
-You will need to use the .jarc quickBMS script to extract assets from a .jarc file. In the case of Wii Fit U, they've been renamed to .carc, for whatever reason.
+You will need to use the .jarc quickBMS script to extract assets from a .jarc file. In the case of Wii Fit U, they've been renamed to .carc, for whatever reason. For some archives, you will have to extract the .brres files within a .jarc file and use the BMS script on that.
 
 
 This fork was originally created by a user who has since taken their accounts offline, with additional updates by showstopper3934.
 jarc.bms from the now-archived aluigi.altervista.org/quickbms.
+I did not write any of the code for this version of Toolbox and am only rehosting it.
